@@ -1,0 +1,8 @@
+Options -Indexes
+RewriteEngine On
+
+ErrorDocument 404 http://localhost/falemais/404
+
+RewriteRule ^destino\/?$ destino.php
+RewriteRule ^index\/?$ index.php
+RewriteRule ^404\/?$ 404.php
