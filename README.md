@@ -1,14 +1,14 @@
 <p align="center"><a href="https://www.gmeloweb.com.br" target="_blank"><img src="https://www.gmeloweb.com.br/images/logo-proposta.png" width="400"></a></p>
 
-# Frontend Challenge Pleno
+# Frontend Senior
 
 ## Link para acessar exemplo do site
 
-https://www.gmeloweb.com.br/frontend
+https://www.gmeloweb.com.br/faleMais
 
 ## Projeto para o desenvolvimento de um site
 
-- O projeto consiste na criação de uma website seguindo o PSD do cliente.
+- O projeto consiste na criação de uma página de simulação para clientes.
 
 ## Ferramentas Utilizadas
 
